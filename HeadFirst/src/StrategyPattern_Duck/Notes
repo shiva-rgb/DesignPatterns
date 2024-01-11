@@ -1,0 +1,10 @@
+This is strategy pattern which defines a family of algorithms, encapsulates each one, and make
+them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
+
+
+inheritance is called -> Is a relationship. In which subclass inherits the property of the
+parent class
+
+Interface is called -> Has a relationship. In Which one class has the instance of the other class.
+This is also said to be composition. This helps in change behavior at run time
+
